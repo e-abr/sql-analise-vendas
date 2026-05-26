@@ -1,0 +1,1 @@
+CALL relatorio_vendas();
