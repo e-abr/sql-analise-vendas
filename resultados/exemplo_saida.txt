@@ -1,1 +1,5 @@
+| produto | total_quantidade | faturamento_total |
+| ------- | ---------------- | ----------------- |
+| Milho   | 100              | 4550.00           |
+| Soja    | 80               | 9600.00           |
 
